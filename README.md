@@ -1,3 +1,5 @@
+> This library now lives in [`@glitchr/flowjs`](https://github.com/glitchr-studio/flowjs), together with `@glitchr/transparentjs` and `@glitchr/ajaxer`. This repository stays at 1.7.0 and is no longer developed; `@glitchr/flowjs/sticky`, `/stops` and `/sortable` replace its modules.
+
 # Sticky JS library
 
 ## The address follows the reading
